@@ -14,7 +14,7 @@
 <div align="center">
   <div align="center" class="logo-container">
     <a href="">
-      <img src="https://drive.google.com/uc?export=view&id=10TxjUlReU_orl3Jc1qretr2AxxCiG_jE" alt="Pilot Logo" class="logo-img" height:20% width:80% style="background-color:white;">
+      <img src="https://drive.google.com/uc?export=view&id=10TxjUlReU_orl3Jc1qretr2AxxCiG_jE" alt="Pilot Logo" class="logo-img" height:20% width:80% style="background-color:white !important;">
     </a>
   </div>
 
