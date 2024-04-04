@@ -1,6 +1,11 @@
 <style>
   .logo-container{
     display:flex;
+  }
+  .logo-img{
+    display:flex;
+    width:"80%";
+    height:"20%";
     background-color:white;
   }
 </style>
@@ -21,7 +26,7 @@
 <div align="center">
   <div align="center" class="logo-container">
     <a href="">
-      <img src="https://drive.google.com/uc?export=view&id=10TxjUlReU_orl3Jc1qretr2AxxCiG_jE" alt="Pilot Logo" width="80%" height="20%">
+      <img src="https://drive.google.com/uc?export=view&id=10TxjUlReU_orl3Jc1qretr2AxxCiG_jE" alt="Pilot Logo" class="logo-img">
     </a>
   </div>
 
