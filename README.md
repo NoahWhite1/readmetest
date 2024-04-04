@@ -1,17 +1,3 @@
-<head>
-  <style>
-  .logo-container{
-    display:flex;
-  }
-  .logo-img{
-    display:flex;
-    width:"80%";
-    height:"20%";
-    background-color:white;
-  }
-  </style>
-</head>
-
 <a name="readme-top"></a>
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -28,7 +14,7 @@
 <div align="center">
   <div align="center" class="logo-container">
     <a href="">
-      <img src="https://drive.google.com/uc?export=view&id=10TxjUlReU_orl3Jc1qretr2AxxCiG_jE" alt="Pilot Logo" class="logo-img">
+      <img src="https://drive.google.com/uc?export=view&id=10TxjUlReU_orl3Jc1qretr2AxxCiG_jE" alt="Pilot Logo" class="logo-img" height:20% width:80%>
     </a>
   </div>
 
