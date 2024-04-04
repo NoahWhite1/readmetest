@@ -1,3 +1,10 @@
+<style>
+  .logo-container{
+    display:flex;
+    background-color:white;
+  }
+</style>
+
 <a name="readme-top"></a>
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -12,7 +19,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <div align="center" style="display:flex;background-color:white;">
+  <div align="center" class="logo-container">
     <a href="">
       <img src="https://drive.google.com/uc?export=view&id=10TxjUlReU_orl3Jc1qretr2AxxCiG_jE" alt="Pilot Logo" width="80%" height="20%">
     </a>
