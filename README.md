@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="https://drive.google.com/file/d/10TxjUlReU_orl3Jc1qretr2AxxCiG_jE/view?usp=sharing" alt="Logo" width="80" height="80">
+    <img src="drive.google.com/uc?export=view&id=10TxjUlReU_orl3Jc1qretr2AxxCiG_jE" alt="Pilot Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
