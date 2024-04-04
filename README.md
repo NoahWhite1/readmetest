@@ -11,9 +11,9 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<div align="center" style="background-color:white">
   <a href="">
-    <img src="https://drive.google.com/uc?export=view&id=10TxjUlReU_orl3Jc1qretr2AxxCiG_jE" alt="Pilot Logo" width="80%" height="20%" style="background-color:white">
+    <img src="https://drive.google.com/uc?export=view&id=10TxjUlReU_orl3Jc1qretr2AxxCiG_jE" alt="Pilot Logo" width="80%" height="20%">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
