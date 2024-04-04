@@ -18,10 +18,10 @@
     </a>
   </div>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Pilot</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Pilot by AudioPilot is a full stack web application for story telling.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
