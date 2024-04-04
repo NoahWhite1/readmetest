@@ -1,4 +1,5 @@
-<style>
+<header>
+  <style>
   .logo-container{
     display:flex;
   }
@@ -8,7 +9,8 @@
     height:"20%";
     background-color:white;
   }
-</style>
+  </style>
+</header>
 
 <a name="readme-top"></a>
 
